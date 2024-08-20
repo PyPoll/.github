@@ -1,4 +1,4 @@
-![PyPollIcon](./PyPollBanner.jpg)
+![PyPollIcon](./PyPollBanner.png)
 
 Welcome on PyPoll's github organization !
 
